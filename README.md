@@ -8,6 +8,20 @@
 
 サブウェイのWebページの更新により動作しなくなる可能性があります。
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>使わない場合</b><br>
+      <img src="before.png" alt="使わない場合" width="100%">
+    </td>
+    <td>→</td>
+    <td align="center" width="50%">
+      <b>使った場合</b><br>
+      <img src="after.png" alt="使った場合" width="100%">
+    </td>
+  </tr>
+</table>
+
 ## インストール手順
 
 1. このリポジトリのコードを自身の端末にダウンロードする
