@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "サブウェイ画面拡大",
+  "version": "1.0",
+  "description": "サブウェイ公式サイトの狭くて見にくいメインコンテンツを画面いっぱいに表示する",
+  "content_scripts": [
+    {
+      "matches": ["https://*.subway.co.jp/*"],
+      "css": ["style.css"]
+    }
+  ]
+}
